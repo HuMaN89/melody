@@ -1,2 +1,2 @@
-# melody Учеьный проект Glo Akademy
+# melody Учебный проект Glo Akademy
 ## Kudabaev Bekzhan
