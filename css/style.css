@@ -86,6 +86,9 @@ body {
 .home-image path:hover {
   opacity: 1;
 }
+path.current-floor{
+  opacity: 1;
+}
 .counter {
   color: #635854;
   font-family: "Bebas Neue", sans-serif;
@@ -100,7 +103,7 @@ body {
 .counter-button {
   background-color: #fff;
   border: none;
-  cursor: pointer;
+  cursor: pointer;s
 }
 .counter-arrow-down {
   transform: rotateX(180deg);
